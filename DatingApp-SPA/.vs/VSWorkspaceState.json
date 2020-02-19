@@ -2,7 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\app"
+    "\\src\\app",
+    "\\src\\environments"
   ],
   "SelectedNode": "\\angular.json",
   "PreviewInSolutionExplorer": false
