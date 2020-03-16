@@ -1,7 +1,6 @@
-E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\appsettings.Development.json
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\appsettings.json
+E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Data\UserSeedData.json
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\DatingApp.API.exe
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\DatingApp.API.deps.json
@@ -9,6 +8,9 @@ E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\DatingApp.API.ru
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\DatingApp.API.runtimeconfig.dev.json
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\DatingApp.API.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\DatingApp.API.pdb
+E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -22,6 +24,11 @@ E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.Entity
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -31,6 +38,7 @@ E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.Visual
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
@@ -38,6 +46,7 @@ E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\System.Compositi
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
@@ -59,6 +68,7 @@ E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\es\Microsoft.Cod
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
@@ -91,6 +101,7 @@ E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\ru\Microsoft.Cod
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
@@ -98,20 +109,13 @@ E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\runtimes\win-x86
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.csprojAssemblyReference.cache
 E:\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\staticwebassets\DatingApp.API.StaticWebAssets.Manifest.cache
 E:\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\staticwebassets\DatingApp.API.StaticWebAssets.xml
+E:\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.MvcApplicationPartsAssemblyInfo.cache
 E:\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.AssemblyInfoInputs.cache
 E:\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.AssemblyInfo.cs
 E:\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.RazorTargetAssemblyInfo.cache
 E:\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.csproj.CopyComplete
 E:\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.dll
 E:\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.pdb
-E:\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.csprojAssemblyReference.cache
-E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
-E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
-E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
-E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
-E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
-E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-E:\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.MvcApplicationPartsAssemblyInfo.cache

@@ -2,7 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\app"
+    "\\src\\app",
+    "\\src\\app\\nav",
+    "\\src\\app\\_guards",
+    "\\src\\app\\_services"
   ],
+  "SelectedNode": "\\src\\app\\routes.ts",
   "PreviewInSolutionExplorer": false
 }
