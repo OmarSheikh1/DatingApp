@@ -3,10 +3,10 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\nav",
-    "\\src\\app\\_guards",
-    "\\src\\app\\_services"
+    "\\src\\app\\member-list",
+    "\\src\\app\\_services",
+    "\\src\\environments"
   ],
-  "SelectedNode": "\\src\\app\\routes.ts",
+  "SelectedNode": "\\src\\app\\member-list\\member-list.component.ts",
   "PreviewInSolutionExplorer": false
 }
