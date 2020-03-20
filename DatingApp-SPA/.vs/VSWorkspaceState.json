@@ -3,10 +3,9 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\member-list",
-    "\\src\\app\\_services",
-    "\\src\\environments"
+    "\\src\\app\\members",
+    "\\src\\app\\members\\member-detail",
+    "\\src\\app\\_resolvers"
   ],
-  "SelectedNode": "\\src\\app\\member-list\\member-list.component.ts",
   "PreviewInSolutionExplorer": false
 }
