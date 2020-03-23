@@ -5,7 +5,6 @@ import { FormsModule } from '@angular/forms'
 import { TabsModule } from 'ngx-bootstrap';
 import { RouterModule } from '@angular/router';
 import { JwtModule } from '@auth0/angular-jwt';
-import { NgxGalleryModule } from 'ngx-gallery';
 
 import { AppComponent } from './app.component';
 import { NavComponent } from './nav/nav.component';
@@ -24,6 +23,7 @@ import { AuthGuard } from './_guards/auth.guard';
 import { UserService } from './_services/user.service';
 import { MemberDetailResolver } from './_resolvers/member-detail.resolver';
 import { MemberListResolver } from './_resolvers/member-list.resolver';
+import { extend } from 'webdriver-js-extender';
 
 
 export function tokenGetter() {
@@ -49,7 +49,6 @@ export function tokenGetter() {
       FormsModule,
       TabsModule.forRoot(),
       RouterModule.forRoot(appRoutes),
-      NgxGalleryModule,
       JwtModule.forRoot({
           config: {
               tokenGetter: tokenGetter,
