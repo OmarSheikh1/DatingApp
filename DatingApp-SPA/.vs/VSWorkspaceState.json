@@ -4,8 +4,10 @@
     "\\src",
     "\\src\\app",
     "\\src\\app\\members",
-    "\\src\\app\\members\\member-detail",
+    "\\src\\app\\members\\member-edit",
+    "\\src\\app\\nav",
     "\\src\\app\\_resolvers"
   ],
+  "SelectedNode": "\\src\\app\\members\\member-edit\\member-edit.component.html",
   "PreviewInSolutionExplorer": false
 }
