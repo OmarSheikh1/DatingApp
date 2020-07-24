@@ -8,6 +8,8 @@ E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\DatingApp.API.ru
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\DatingApp.API.runtimeconfig.dev.json
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\DatingApp.API.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\DatingApp.API.pdb
+E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\AutoMapper.dll
+E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
@@ -109,7 +111,6 @@ E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\runtimes\win-x86
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-E:\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.csprojAssemblyReference.cache
 E:\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\staticwebassets\DatingApp.API.StaticWebAssets.Manifest.cache
 E:\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\staticwebassets\DatingApp.API.StaticWebAssets.xml
 E:\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.AssemblyInfoInputs.cache
@@ -118,6 +119,6 @@ E:\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.Ra
 E:\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.csproj.CopyComplete
 E:\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.dll
 E:\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.pdb
-E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\AutoMapper.dll
-E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.csprojAssemblyReference.cache
 E:\Source\Repos\DatingApp\DatingApp.API\obj\Debug\netcoreapp3.0\DatingApp.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Source\Repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\CloudinaryDotNet.dll

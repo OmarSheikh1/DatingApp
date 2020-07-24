@@ -4,10 +4,11 @@
     "\\src",
     "\\src\\app",
     "\\src\\app\\members",
-    "\\src\\app\\members\\member-edit",
-    "\\src\\app\\nav",
-    "\\src\\app\\_resolvers"
+    "\\src\\app\\members\\member-list",
+    "\\src\\app\\_models",
+    "\\src\\app\\_resolvers",
+    "\\src\\app\\_services"
   ],
-  "SelectedNode": "\\src\\app\\members\\member-edit\\member-edit.component.html",
+  "SelectedNode": "\\src\\app\\_services\\user.service.spec.ts",
   "PreviewInSolutionExplorer": false
 }
